@@ -1,0 +1,27 @@
+{
+  "compileOnSave": true,
+  "vueCompilerOptions": {
+    "target": 2.7,
+    "extensions": [".vue"]
+  },
+  "compilerOptions": {
+    "target": "es5",
+    "module": "esnext",
+    "strict": true,
+    "importHelpers": true,
+    "experimentalDecorators": true,
+    "skipLibCheck": true,
+    "esModuleInterop": true,
+    "allowSyntheticDefaultImports": true,
+    "sourceMap": true,
+    "baseUrl": ".",
+    "moduleResolution": "node",
+    "paths": {
+      "@/*": ["resources/js/*"]
+    },
+    "lib": ["esnext", "dom", "dom.iterable", "scripthost"],
+    "jsx": "react"
+  },
+  "include": ["resources/js/**/*.js", "resources/js/**/*.vue"],
+  "exclude": ["node_modules", "**/node_modules", "dist"]
+}

@@ -1,0 +1,63 @@
+{
+    "menu": {
+        "customer_master": "Khách hàng"      
+    },
+    "label": {
+        "header": "Hệ thống hậu cần giao hàng nội địa",
+        "login": "Đăng nhập",
+        "user_id": "Tên người dùng",
+        "password": "Mật khẩu",
+        "information": "Thông tin",
+        "lang": "Ngôn ngữ",
+        "langs": {
+            "en": "Tiếng anh",
+            "vn": "Việt Nam"
+        },
+        "search_conditions": "Điều kiện tìm kiếm",
+        "search_results": "kết quả tìm kiếm",
+        "cancel": "Hủy bỏ",
+        "edit": "biên tập"
+    },
+    "button": {
+        "login": "LOGIN",
+        "register": "Register",
+        "back": "Back",
+        "clear": "Clear",
+        "search": "Search",
+        "close": "Close",
+        "create": "Create",
+        "delete": "Delete",
+        "cancel": "Cancel",
+        "edit": "Edit",
+        "detail": "Detail",
+        "confirm": "Confirm",
+        "download": "Download"
+    },
+    "main": {
+        "label": {
+            "header": "Main",
+            "title": {
+                "schedule": "Today Schedule",
+                "information": "INFORMATION",
+                "operating_instruction": "Operating instructions",
+                "caution": "CAUTION",
+                "warehouse_information": "Warehouse Information"
+            }
+        }
+    },
+    "customer-master": {
+        "label": {
+            "customer_code": "customer_code",
+            "customer_name": "customer_name",
+            "search_results": "search_results",
+            "search_conditions": "search_conditions",
+            "table_header": {
+                "0": "",
+                "1": "customer_code",
+                "2": "customer_name",
+                "3": "address",
+                "4": ""
+            }
+        }
+    }   
+}

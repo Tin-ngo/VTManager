@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ROOT>
+		<DB_HOST>localhost</DB_HOST>
+		<DB_PORT>5434</DB_PORT>	
+		<DB_DATABASE>vtmanager2</DB_DATABASE>
+		<DB_USERNAME>postgres</DB_USERNAME>
+		<DB_PASSWORD>123456</DB_PASSWORD>
+		<OWNER_ID>'000001'</OWNER_ID>
+</ROOT>
