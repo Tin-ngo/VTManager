@@ -1,8 +1,0 @@
-export const DATE_FORMAT_BASIC = "YYYYMMDD";
-export const DATE_FORMAT_SLASH = "YYYY/MM/DD";
-export const DATE_FORMAT_DASH = "YYYY-MM-DD";
-export const DATE_FORMAT_FULL_TIME = "YYYY/MM/DD HH:mm:ss";
-export const DATE_FORMAT_YEAR_MONTH = "YYYYMM";
-export const DATE_FORMAT_YEAR_MONTH_SLASH = "YYYY/MM";
-export const DATE_FORMAT_YEAR_MONTH_DASH = "YYYY-MM";
-export const DATE_FORMAT_SLASH_DAY_MONTH_YEAR = "DD/MM/YYYY";
