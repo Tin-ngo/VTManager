@@ -1,0 +1,1 @@
+export const STATUS_ON_HOLD = 'C01';

@@ -1,0 +1,69 @@
+{
+    "menu": {
+        "customer_master": "Khách hàng"      
+    },
+    "label": {
+        "header": "Hệ thống hậu cần giao hàng nội địa",
+        "login": "Đăng nhập",
+        "user_id": "Tên người dùng",
+        "password": "Mật khẩu",
+        "information": "Thông tin",
+        "lang": "Ngôn ngữ",
+        "langs": {
+            "en": "Tiếng anh",
+            "vn": "Việt Nam"
+        },
+        "search_conditions": "Điều kiện tìm kiếm",
+        "search_results": "kết quả tìm kiếm",
+        "cancel": "Hủy bỏ",
+        "edit": "biên tập"
+    },
+    "button": {
+        "login": "Đăng nhập",
+        "register": "Đăng ký",
+        "back": "Quay lại",
+        "clear": "làm mới",
+        "search": "Tìm kiếm",
+        "close": "Đóng",
+        "create": "Tạo mới",
+        "delete": "Xóa",
+        "cancel": "Hủy bỏ",
+        "edit": "Chỉnh sửa",
+        "detail": "Chi tiết",
+        "confirm": "xác nhận",
+        "download": "Tải xuống"       
+    },
+    "overview": {
+        "header": "Tổng quan",
+        "label": {
+            "table_header": {
+                "0": "#",
+                "1": "Số bàn",
+                "2": "Khu vực",
+                "3": "Thời gian",
+                "4": "Trạng thái",
+                "5": "Bàn ghép",
+                "6": "Số người tối đa"
+            }
+        }
+    },   
+    "employee": {
+        "header": "Nhân viên",
+        "label": {
+            "table_header": {
+                "0": "ID Nhân viên",
+                "1": "Tên Nhân viên",
+                "2": "Vị trí",
+                "3": "Ngày sinh",
+                "4": "Ngày bắt đầu",
+                "5": "Trạng thái"
+            }
+        }
+    },    
+    "warehouse": {
+        "header": "Kho",
+        "label": {
+           
+        }
+    }
+}

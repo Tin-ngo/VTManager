@@ -1,0 +1,70 @@
+{
+    "menu": {
+        "customer_master": "Khách hàng"      
+    },
+    "label": {
+        "header": "Hệ thống hậu cần giao hàng nội địa EN",
+        "login": "Đăng nhập EN",
+        "user_id": "Tên người dùng EN",
+        "password": "Mật khẩu EN",
+        "information": "Thông tin EN",
+        "lang": "Ngôn ngữ EN",
+        "langs": {
+            "en": "Tiếng anh EN",
+            "vn": "Việt Nam EN"
+        },
+        "search_conditions": "Điều kiện tìm kiếm EN",
+        "search_results": "kết quả tìm kiếm EN",
+        "cancel": "Hủy bỏ EN",
+        "edit": "biên tập EN"
+    },
+    "button": {
+        "login": "LOGIN",
+        "register": "Register",
+        "back": "Back",
+        "clear": "Clear",
+        "search": "Search",
+        "close": "Close",
+        "create": "Create",
+        "delete": "Delete",
+        "cancel": "Cancel",
+        "edit": "Edit",
+        "detail": "Detail",
+        "confirm": "Confirm",
+        "download": "Download"
+    },
+    "overview": {
+        "header": "Overview",
+        "label": {
+            "table_header": {
+                "0": "#",
+                "1": "Table Id",
+                "2": "Area",
+                "3": "Date Time",
+                "4": "Status",
+                "5": "Join status",
+                "6": "Max Capacity"
+            }
+        }
+    },   
+    "employee": {
+        "header": "Employee",
+
+        "label": {
+            "table_header": {
+                "0": "Employee ID",
+                "1": "Employee Name",
+                "2": "Work Position",
+                "3": "Birthday",
+                "4": "Date start work",
+                "5": "Working status"
+            }
+        }
+    },   
+    "warehouse": {
+        "header": "Warehouse",
+        "label": {
+           
+        }
+    }
+}
